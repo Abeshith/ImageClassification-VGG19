@@ -1,6 +1,7 @@
-streamlit
-streamlit_option_menu
-tensorflow
-PIL
-requests
-numpy
+Tensorflow
+Keras
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
